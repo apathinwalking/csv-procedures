@@ -18,5 +18,11 @@
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/apathinwalking/tabular-util/issues"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "csv-parse": "^0.1.4",
+    "json2csv": "^2.9.0",
+    "lodash": "^3.10.1"
   }
 }
