@@ -1,2 +1,2 @@
-# csv-procedures
-Useful csv utility functions using nodejs
+# tabular-utils
+Useful tabular utility functions using nodejs
